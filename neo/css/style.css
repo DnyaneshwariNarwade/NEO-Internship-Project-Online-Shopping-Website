@@ -1,0 +1,20 @@
+
+.feature{
+    background: rgb(235, 194, 225);
+    background:linear-gradient(0deg,rgba(0,121,230,1) 0%,rgba(0,250,255,1) 90%);
+}
+.cart{
+    background: rgb(248, 192, 235);
+    background:linear-gradient(0deg,rgb(187, 191, 247) 0%,rgb(170, 161, 221) 90%);
+}
+.card-body{
+    background: rgb(245, 192, 233);
+    background:linear-gradient(0deg,rgb(187, 191, 247) 0%,rgb(170, 161, 221) 90%);
+}
+.col-lg-4 {
+    background: rgb(245, 192, 233);
+    background:linear-gradient(0deg,rgb(187, 191, 247) 0%,rgb(170, 161, 221) 90%);
+}
+
+
+
